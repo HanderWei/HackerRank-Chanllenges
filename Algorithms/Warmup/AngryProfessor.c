@@ -1,3 +1,8 @@
+//Angry Professor
+//https://www.hackerrank.com/challenges/angry-professor
+//
+//Create By Hander
+
 #include<stdio.h>
 
 int main()

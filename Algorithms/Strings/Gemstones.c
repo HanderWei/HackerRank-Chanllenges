@@ -8,9 +8,7 @@
 
 int main()
 {
-    int N, result = 1, sum = 0;
-    for (int i = 0; i < sizeof(int) * 8; i++)
-        result |= 1 << i;
+    int N, result = -1, sum = 0;
     char str[101];
     scanf("%d", &N);
     int rocks[N];
